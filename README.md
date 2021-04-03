@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apenwk. I’m interested in penguins.
 - 🌱 I’m currently learning computer vision.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on projects about iOS and 
+- 📫 Reach me at https://t.me/p3nchan/
 
 <!---
 apenwk/apenwk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
