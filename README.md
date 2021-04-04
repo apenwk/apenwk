@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apenwk. I’m interested in penguins.
 - 🌱 I’m currently learning computer vision.
-- 💞️ I’m looking to collaborate on projects about iOS and 
+- 💞️ I’m looking to collaborate on projects supporting ecological community.
 - 📫 Reach me at https://t.me/p3nchan/
 
 <!---
